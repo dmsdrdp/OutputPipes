@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>C:\Program Files\RevitAPITraining\OutputPipes.dll</Assembly>
+		<AddInId>D8E8C9E5-2EDB-4C36-AC67-5F5A19465212</AddInId>
+		<FullClassName>OutputPipes.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Вывод значений труб</Text>
+	</AddIn>
+</RevitAddIns>
